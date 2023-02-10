@@ -1,5 +1,5 @@
 /**************************************************
- * Name: CS-300_Project2.cpp 
+ * Name: BinarySearchTree.cpp 
  * Author: William Brandow
  * Date: 2022-02-27
  * Version: 1.0
